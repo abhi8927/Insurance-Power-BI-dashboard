@@ -81,22 +81,3 @@ The dataset contains:
 
 ---
 
-## 📎 How to View the Report
-
-If you have Power BI Desktop:
-1. Download `InsuranceDashboard.pbix` from this repo
-2. Open it in Power BI Desktop to explore filters, slicers, and visuals
-
-Or, if using Power BI Service:
-- Contact me for secure access to the live, embedded report with RLS enabled.
-
----
-
-## ✅ Final Words
-
-This dashboard project demonstrates my ability to:
-- Work with real-world insurance data
-- Transform messy datasets into valuable business dashboards
-- Implement enterprise-grade features like **Power BI Service**, **RLS**, and **drill-throughs**
-
-📩 **Let’s connect** if you’re working on a BI or data analytics challenge!
