@@ -1,4 +1,3 @@
-# Insurance-Power-BI-dashboard
 # 📊 Power BI Insurance Dashboard – PRISM Insurance Pvt. Ltd.
 
 This project presents an end-to-end interactive dashboard built using **Power BI** to analyze key metrics and business drivers for **PRISM Insurance Pvt. Ltd.**. The dashboard provides a real-time view of customer demographics, policy activity, claims data, and customer sentiment to support strategic decision-making.
@@ -20,7 +19,9 @@ To simulate how a data analyst would:
 - **Power Query (M Language)**
 - Data Cleaning & Transformation
 - KPI Creation and Card Visuals
-- Filter and Drill-through Configuration
+- Filter, Slicer, and Drill-through Configuration
+- **Row-Level Security (RLS)**
+- **Power BI Service – Report Publishing & Embedding**
 
 ---
 
@@ -36,14 +37,14 @@ The dataset contains:
 
 ## 📌 Key KPIs Displayed
 
-| KPI                          | Value        |
-|-----------------------------|--------------|
+| KPI                          | Value         |
+|-----------------------------|---------------|
 | Total Premium Collected     | ₹5.97 Million |
 | Total Claim Amount Paid     | ₹16.9 Million |
 | Total Policy Coverage       | ₹600.33 Million |
-| Total Customers             | ~2,300+       |
-| Claims Processed            | 1,000+        |
-| Customer Feedbacks Analyzed| 278           |
+| Total Customers             | ~2,300+        |
+| Claims Processed            | 1,000+         |
+| Customer Feedbacks Analyzed| 278            |
 
 ---
 
@@ -71,11 +72,12 @@ The dataset contains:
 
 ---
 
-## 🔮 Future Scope
+## 🚀 Key Features Implemented
 
-- Embed live reports using **Power BI Service**
-- Integrate RLS (Row-Level Security) for branch-level managers
-- Add drill-through reports for claim-by-claim deep dives
+- ✅ Published to **Power BI Service** with secure access  
+- ✅ Configured **Row-Level Security (RLS)** for user-specific views (e.g., branch-wise analysis)  
+- ✅ Built **Drill-through reports** for detailed claim-level and customer-level analysis  
+- ✅ Enabled **interactive filters and slicers** by Customer ID, Policy Number, and Age Group  
 
 ---
 
@@ -83,7 +85,10 @@ The dataset contains:
 
 If you have Power BI Desktop:
 1. Download `InsuranceDashboard.pbix` from this repo
-2. Open it in Power BI Desktop to explore filters and visuals
+2. Open it in Power BI Desktop to explore filters, slicers, and visuals
+
+Or, if using Power BI Service:
+- Contact me for secure access to the live, embedded report with RLS enabled.
 
 ---
 
@@ -91,7 +96,7 @@ If you have Power BI Desktop:
 
 This dashboard project demonstrates my ability to:
 - Work with real-world insurance data
-- Transform messy data into business intelligence
-- Build dashboards for decision-makers with **clarity, visuals, and depth**
+- Transform messy datasets into valuable business dashboards
+- Implement enterprise-grade features like **Power BI Service**, **RLS**, and **drill-throughs**
 
-📩 Feel free to connect or fork this project if you're working on something similar!
+📩 **Let’s connect** if you’re working on a BI or data analytics challenge!
