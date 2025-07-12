@@ -50,16 +50,16 @@ The dataset contains:
 
 ## 📊 Dashboard Visuals
 
-> ⚠️ *Click the images if viewing on GitHub to expand and zoom.*
+> ⚠️ Click the images below to expand and explore.
 
 ### 🔹 Overview Page  
-![KPI Overview](images/kpi-overview.png)
+![Overview](images/Overview.png)
 
-### 🔹 Policy and Claims Analysis  
-![Claims by Type](images/dashboard1.png)
+### 🔹 Policy & Claim Analysis Page  
+![Policy and Claims](images/Claim-analysis.png)
 
-### 🔹 Feedback Sentiment & Word Cloud  
-![Customer Feedback](images/feedback-analysis.png)
+### 🔹 Customer Feedback & Sentiment Analysis  
+![Feedback](images/Feedbck.png)
 
 ---
 
